@@ -254,9 +254,9 @@ END:VCARD
 ## 🖼️ Galería
 
 <p align="center">
-  <img alt="gallery1" src="https://via.placeholder.com/280x280/001630/00b4d8?text=QR+Corporativo" style="margin:8px; border-radius:8px;">
-  <img alt="gallery2" src="https://via.placeholder.com/280x280/071133/ffd166?text=QR+Creativo" style="margin:8px; border-radius:8px;">
-  <img alt="gallery3" src="https://via.placeholder.com/280x280/0f1724/00ffb3?text=QR+Mínimo" style="margin:8px; border-radius:8px;">
+  <img alt="gallery1" src="Screnshot/Captura.PNG" style="margin:8px; border-radius:8px;">
+  <img alt="gallery2" src="Screnshot/Captura1.PNG" style="margin:8px; border-radius:8px;">
+  <img alt="gallery3" src="Screnshot/Captura2.PNG" style="margin:8px; border-radius:8px;">
   <img alt="gallery4" src="https://via.placeholder.com/280x280/1a202c/ff6b6b?text=QR+Evento" style="margin:8px; border-radius:8px;">
 </p>
 
