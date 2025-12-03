@@ -1,7 +1,7 @@
 # 🔷 QR Master Pro — Edición Jeferson Jaimes
 
 <p align="center">
-  <img alt="banner" src="https://via.placeholder.com/1200x320/0f1724/00b4d8?text=QR+Master+Pro+-+Diseña+QRs+Profesionales" style="border-radius:12px; box-shadow: 0 8px 24px rgba(2,6,23,0.6)"/>
+  <img alt="banner" src="Screnshot/TARJETA.jpeg" style="border-radius:12px; box-shadow: 0 8px 24px rgba(2,6,23,0.6)"/>
 </p>
 
 <p align="center">
