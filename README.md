@@ -243,8 +243,8 @@ N:Jaimes;Jeferson;;;
 FN:Jeferson Jaimes
 ORG:QR Master Pro;
 TITLE:Desarrollador
-TEL:+1234567890
-EMAIL:jeferson@ejemplo.com
+TEL:+51931976361
+EMAIL:jaimespassunijeferson@ejemplo.com
 URL:https://github.com/JAIMES4224D
 END:VCARD
 ```
