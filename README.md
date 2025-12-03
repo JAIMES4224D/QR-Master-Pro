@@ -39,7 +39,6 @@
 > Interfaz moderna con modo oscuro, selector HEX y vista previa en vivo.
 
 <p align="center">
-  <!-- Reemplazar con GIF real cuando esté disponible -->
   <img alt="preview" src="Screnshot/Captura.PNG" style="border-radius:10px; box-shadow: 0 10px 30px rgba(2,6,23,0.6)"/>
 </p>
 
