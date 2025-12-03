@@ -40,7 +40,7 @@
 
 <p align="center">
   <!-- Reemplazar con GIF real cuando esté disponible -->
-  <img alt="preview" src="https://via.placeholder.com/900x420/071133/00b4d8?text=Preview+-+QR+Master+Pro" style="border-radius:10px; box-shadow: 0 10px 30px rgba(2,6,23,0.6)"/>
+  <img alt="preview" src="Screnshot/Captura" style="border-radius:10px; box-shadow: 0 10px 30px rgba(2,6,23,0.6)"/>
 </p>
 
 ---
